@@ -105,9 +105,9 @@ ul a{
   background: #4fffb9;
 } */
 
-.active:active{
+/* .active:active{
  
-}
+} */
 
 /* .active:visited{
   color: #4fffb9;
@@ -394,7 +394,7 @@ button{
   margin-top: 5%;
   width : 50%;
   margin: 5% auto 0 auto;
-  box-shadow: ;
+  /* box-shadow: ; */
   font-size: 30px;
   font-weight: 600;
 }
